@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: play-app
-          image: play-scala-with-docker-and-kurberetes:1.0-SNAPSHOT
+          image: play-scala-with-docker-and-kurberetes:1.2-SNAPSHOT
           ports:
             - containerPort: 9000
           env:

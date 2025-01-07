@@ -1,0 +1,130 @@
+2025.01.07 13:52:56 INFO  Started: Metals version 1.4.2 in folders '/Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes' for client Visual Studio Code 1.87.0.[0m
+2025.01.07 13:53:09 INFO  running '/Users/michaeljohnwatters/Library/Application Support/Coursier/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2025.01.07 13:53:10 WARN  no build target for: /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/metals.sbt[0m
+2025.01.07 13:53:10 WARN  no build target for: /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/project/metals.sbt[0m
+2025.01.07 13:53:10 INFO  no build target found for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.07 13:53:12 INFO  [info] welcome to sbt 1.10.6 (Eclipse Adoptium Java 21.0.5)[0m
+2025.01.07 13:53:14 INFO  [info] loading settings for project play-scala-with-docker-and-kurberetes-build-build-build from metals.sbt...[0m
+2025.01.07 13:53:15 INFO  [info] loading project definition from /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/project/project[0m
+2025.01.07 13:53:18 INFO  [info] loading settings for project play-scala-with-docker-and-kurberetes-build-build from metals.sbt...[0m
+2025.01.07 13:53:18 INFO  [info] loading project definition from /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/project[0m
+2025.01.07 13:53:24 INFO  no build target found for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.07 13:53:25 INFO  no build target found for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/project/metals.sbt. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.07 13:53:25 INFO  no build target found for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+Jan 07, 2025 1:53:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.01.07 13:53:25 INFO  no build target found for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.07 13:53:26 WARN  no build target for: /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 13:53:26 INFO  no build target found for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.07 13:53:27 INFO  no build target found for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala. Using presentation compiler with project's scala-library version: 3.3.4[0m
+2025.01.07 13:53:39 INFO  [success] Generated .bloop/play-scala-with-docker-and-kurberetes-build-build.json[0m
+2025.01.07 13:53:39 INFO  [success] Total time: 21 s, completed 7 Jan 2025, 13:53:39[0m
+2025.01.07 13:53:40 INFO  [info] loading settings for project play-scala-with-docker-and-kurberetes-build from metals.sbt, plugins.sbt...[0m
+2025.01.07 13:53:40 INFO  [info] loading project definition from /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project[0m
+2025.01.07 13:53:46 INFO  [success] Generated .bloop/play-scala-with-docker-and-kurberetes-build.json[0m
+2025.01.07 13:53:46 INFO  [success] Total time: 5 s, completed 7 Jan 2025, 13:53:46[0m
+2025.01.07 13:53:49 INFO  [info] loading settings for project root from build.sbt...[0m
+2025.01.07 13:53:49 INFO  [info]   __              __[0m
+2025.01.07 13:53:49 INFO  [info]   \ \     ____   / /____ _ __  __[0m
+2025.01.07 13:53:49 INFO  [info]    \ \   / __ \ / // __ `// / / /[0m
+2025.01.07 13:53:49 INFO  [info]    / /  / /_/ // // /_/ // /_/ /[0m
+2025.01.07 13:53:49 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /[0m
+2025.01.07 13:53:49 INFO  [info]       /_/               /____/[0m
+2025.01.07 13:53:49 INFO  [info] [0m
+2025.01.07 13:53:49 INFO  [info] Version 3.0.6 running Java 21.0.5[0m
+2025.01.07 13:53:49 INFO  [info] [0m
+2025.01.07 13:53:49 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:[0m
+2025.01.07 13:53:49 INFO  [info] https://www.playframework.com/sponsors[0m
+2025.01.07 13:53:49 INFO  [info] [0m
+2025.01.07 13:53:56 INFO  [success] Generated .bloop/root.json[0m
+2025.01.07 13:53:56 INFO  [success] Generated .bloop/root-test.json[0m
+2025.01.07 13:53:56 INFO  [success] Total time: 7 s, completed 7 Jan 2025, 13:53:56[0m
+2025.01.07 13:53:56 INFO  time: ran 'sbt bloopInstall' in 47s[0m
+2025.01.07 13:53:56 INFO  Attempting to connect to the build server...[0m
+2025.01.07 13:53:56 INFO  Found a Bloop server running[0m
+2025.01.07 13:53:56 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/.metals/bsp.trace.json or /Users/michaeljohnwatters/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 13:54:16 ERROR Timeout waiting for 'build/initialize' response[0m
+2025.01.07 13:54:16 WARN  Retrying connection to the build server Bloop[0m
+2025.01.07 13:54:16 INFO  Found a Bloop server running[0m
+2025.01.07 13:54:16 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/.metals/bsp.trace.json or /Users/michaeljohnwatters/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 13:54:37 ERROR Timeout waiting for 'build/initialize' response[0m
+2025.01.07 13:54:37 WARN  Retrying connection to the build server Bloop[0m
+2025.01.07 13:54:37 INFO  Found a Bloop server running[0m
+2025.01.07 13:54:37 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/.metals/bsp.trace.json or /Users/michaeljohnwatters/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 13:54:49 INFO  Attempting to connect to the build server...[0m
+2025.01.07 13:54:49 INFO  Found a Bloop server running[0m
+2025.01.07 13:54:49 INFO  Attempting to connect to the build server...[0m
+2025.01.07 13:54:49 INFO  Found a Bloop server running[0m
+2025.01.07 13:54:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/project/.metals/bsp.trace.json or /Users/michaeljohnwatters/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 13:54:49 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/project/.metals/bsp.trace.json or /Users/michaeljohnwatters/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2025.01.07 13:55:00 INFO  time: Connected to build server in 1m4s[0m
+2025.01.07 13:55:00 INFO  Connected to Build server: Bloop v2.0.5[0m
+2025.01.07 13:55:01 INFO  time: Imported build in 0.32s[0m
+2025.01.07 13:55:01 INFO  running doctor check[0m
+2025.01.07 13:55:01 INFO  java targets: play-scala-with-docker-and-kurberetes-build, root, root-test, play-scala-with-docker-and-kurberetes-build-build[0m
+2025.01.07 13:56:09 INFO  compiling root (8 scala sources and 1 java source)[0m
+2025.01.07 13:56:23 INFO  time: compiled root in 14s[0m
+2025.01.07 13:56:42 INFO  time: indexed workspace in 1m41s[0m
+2025.01.07 13:56:42 INFO  compiling root-test (1 scala source)[0m
+2025.01.07 13:56:46 INFO  time: compiled root-test in 3.43s[0m
+2025.01.07 13:56:59 INFO  compiling root (1 scala source)[0m
+2025.01.07 13:57:00 INFO  time: compiled root in 1.56s[0m
+Jan 07, 2025 2:06:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 386
+2025.01.07 14:06:58 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:06:58 INFO  time: compiled root in 0.77s[0m
+2025.01.07 14:07:21 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:07:23 INFO  time: compiled root in 2.19s[0m
+2025.01.07 14:07:27 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:07:29 INFO  time: compiled root in 1.37s[0m
+2025.01.07 14:10:42 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:10:42 INFO  time: compiled root in 0.69s[0m
+2025.01.07 14:11:12 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:11:14 INFO  time: compiled root in 2.12s[0m
+Jan 07, 2025 2:11:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 715
+2025.01.07 14:13:57 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:13:57 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:13:57 INFO  time: compiled root in 0.29s[0m
+2025.01.07 14:13:57 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:10 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:31 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:33 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:33 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:34 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:35 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:36 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:37 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:38 WARN  Could not load snapshot text for /Users/michaeljohnwatters/repo/play-scala-with-docker-and-kurberetes/app/controllers/MichaelsController.scala[0m
+2025.01.07 14:14:39 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:14:40 INFO  time: compiled root in 1.65s[0m
+2025.01.07 14:16:31 INFO  compiling root (3 scala sources)[0m
+2025.01.07 14:16:31 INFO  time: compiled root in 0.41s[0m
+2025.01.07 14:16:37 INFO  compiling root (3 scala sources)[0m
+2025.01.07 14:16:37 INFO  time: compiled root in 0.44s[0m
+2025.01.07 14:17:00 INFO  compiling root (4 scala sources)[0m
+2025.01.07 14:17:00 INFO  time: compiled root in 0.3s[0m
+2025.01.07 14:18:41 INFO  compiling root (4 scala sources)[0m
+2025.01.07 14:18:43 INFO  time: compiled root in 1.9s[0m
+2025.01.07 14:18:43 INFO  compiling root (1 scala source and 1 java source)[0m
+2025.01.07 14:18:44 INFO  time: compiled root in 1.61s[0m
+Jan 07, 2025 2:18:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1140
+2025.01.07 14:18:53 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:18:53 INFO  time: compiled root in 0.15s[0m
+2025.01.07 14:18:57 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:18:57 INFO  time: compiled root in 0.14s[0m
+2025.01.07 14:19:07 INFO  compiling root (1 scala source)[0m
+2025.01.07 14:19:07 INFO  time: compiled root in 0.88s[0m
+Jan 07, 2025 2:46:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1239
+Jan 07, 2025 2:55:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1324
+Jan 07, 2025 3:01:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1382
+Jan 07, 2025 3:01:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1401
+Jan 07, 2025 3:01:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1413
+Jan 07, 2025 3:04:47 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1457
