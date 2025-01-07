@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: play-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: play-app
+  template:
+    metadata:
+      labels:
+        app: play-app
+    spec:
+      containers:
+        - name: play-app
+          image: play-scala-with-docker-and-kurberetes:1.0-SNAPSHOT
+          ports:
+            - containerPort: 9000
+          env:
+            - name: "PLAY_HTTP_PORT"
+              value: "9000"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: play-app-service
+spec:
+  selector:
+    app: play-app
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 9000
+  type: LoadBalancer
