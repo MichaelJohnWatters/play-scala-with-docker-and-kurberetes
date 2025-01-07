@@ -11,5 +11,5 @@ libraryDependencies += "org.scalatestplus.play" %% "scalatestplus-play" % "7.0.1
 
 enablePlugins(DockerPlugin)
 dockerBaseImage := "openjdk:21" // or your preferred base image
-dockerExposedPorts := Seq(9000)          // Expose necessary ports
+dockerExposedPorts := Seq(9000) // Expose necessary ports
 enablePlugins(DockerPlugin)
